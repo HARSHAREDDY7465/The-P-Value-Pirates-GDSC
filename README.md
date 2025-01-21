@@ -1,7 +1,5 @@
 # Team The P-Value Pirates solution repo for GDSC 7 :blue_book:
 
-![Banner](http://gdsc-bucket-058264313357.s3.amazonaws.com/insighted_banner_team.png)
-
 ## Table of contents: :point_down:
 1. [Solution Concept :mag_right:](#solution-concept-mag_right)
 2. [Details of the solution :page_with_curl:](#details-of-the-solution-page_with_curl)
